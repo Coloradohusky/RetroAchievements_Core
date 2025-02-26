@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "coloradohusky.retroachievements_core.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.retroachievements_core.refmap.json",
+  "mixins": [
+    "WorldInfoMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

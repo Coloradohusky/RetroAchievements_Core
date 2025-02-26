@@ -1,0 +1,16 @@
+[
+{
+  "modid": "retroachievements_core",
+  "name": "RetroAchievements Core",
+  "description": "Adds core support for RetroAchievements.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Coloradohusky"],
+  "credits": "RetroAchievements, Coloradohusky",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
