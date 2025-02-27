@@ -167,7 +167,7 @@ jar {
             attribute_map['FMLAT'] = project.archives_base_name + '_at.cfg'
         }
         if (project.use_mixins.toBoolean()) {
-            attribute_map['FMLCorePlugin'] = "coloradohusky.RetroAchievements_Core_MixinTweaker"
+            attribute_map['FMLCorePlugin'] = "coloradohusky.retroachievements_core.RetroAchievements_Core_MixinTweaker"
             attribute_map['FMLCorePluginContainsFMLMod'] = true
             attribute_map['ForceLoadAsMod'] = true
             attribute_map['FMLAT'] = project.archives_base_name + '_at.cfg'
